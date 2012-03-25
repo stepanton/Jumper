@@ -1,0 +1,9 @@
+C:\Users\Samsung\Desktop\прога\bombers\bombers\bin\Debug\bombers.exe
+C:\Users\Samsung\Desktop\прога\bombers\bombers\bin\Debug\bombers.pdb
+C:\Users\Samsung\Desktop\прога\bombers\bombers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Samsung\Desktop\прога\bombers\bombers\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Samsung\Desktop\прога\bombers\bombers\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Samsung\Desktop\прога\bombers\bombers\obj\x86\Debug\bombers.exe
+C:\Users\Samsung\Desktop\прога\bombers\bombers\obj\x86\Debug\bombers.pdb
+C:\Users\Samsung\Desktop\прога\bombers\bombers\obj\x86\Debug\yobaivan.yobaivan.resources
+C:\Users\Samsung\Desktop\прога\bombers\bombers\obj\x86\Debug\yobaivan.Properties.Resources.resources
